@@ -2,12 +2,16 @@
 
 This is a rental car company backend platform powered by .NET 6.
 
-Esta WEB API expone diferentes servicios para la gestión de una empresa de alquiler de autos.
+This WEB API exposes various services for managing a car rental company.
 
 ## Getting started
 
-1. Configura el string de conexión a tu base de datos de SQL Server en el archivo `RentalCar.Api.appsettings.Development.json` en la propiedad `ConnectionStrings.SQLServerDatabase`
-2. Ejecuta la aplicación utilizando VS2022. Esta creará automáticamente la base de datos, su estructura y completará las diferentes tablas con registros fake. Esto es así solo por propósito de testing y para cumplir con la consigna. No debería ser de esta forma en un ambiente real.
+1. Configure the connection string to your SQL Server database in the `RentalCar.Api.appsettings.Development.json` file under the `ConnectionStrings.SQLServerDatabase` property.
+2. Run the application using VS2022. This will automatically create the database, its structure, and populate the different tables with fake records. This is only for testing purposes and to meet the requirements. It should not be done this way in a real environment.
+
+## Architecture
+
+This is a `Vertical Slices architecture` based on an approach to `Clean architecture` where the goal is the separation of responsibilities (using the `CQRS` pattern) and inverse dependency injection across the different layers that make up the solution: `Presentation`, `Infrastructure`, `Application`, and `Domain`.
 
 ## Users
 
