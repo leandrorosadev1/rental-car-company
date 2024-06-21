@@ -1,0 +1,17 @@
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Application.deps.json
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Application.dll
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Application.pdb
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Domain.dll
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Infrastructure.dll
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Infrastructure.pdb
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\bin\Debug\net6.0\RentalCar.Domain.pdb
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.csproj.AssemblyReference.cache
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.AssemblyInfoInputs.cache
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.AssemblyInfo.cs
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.csproj.CopyComplete
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.dll
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\refint\RentalCar.Application.dll
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\RentalCar.Application.pdb
+C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Application\obj\Debug\net6.0\ref\RentalCar.Application.dll
