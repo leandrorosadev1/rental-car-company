@@ -7,8 +7,8 @@ This WEB API exposes various services for managing a car rental company.
 ## Getting started
 
 1. Configure the connection string to your SQL Server database in the `RentalCar.Api.appsettings.Development.json` file under the `ConnectionStrings.SQLServerDatabase` property.
-2. Run the application using VS2022. This will automatically create the database -if not exists-, its structure, and populate the different tables with fake records. This is only for testing purposes and to meet the requirements. It should not be done this way in a real environment. Database seeders will create different users and its permissions (See `Users` section).
-3. Swagger will be available on `http://localhost:7104/`.
+2. Run the application `RentalCar.Api` using VS2022. This will automatically create the database -if not exists-, its structure, and populate the different tables with fake records. This is only for testing purposes and to meet the requirements. It should not be done this way in a real environment. Database seeders will create different users and its permissions (See `Users` section).
+3. Swagger will be available on `http://localhost:7104/swagger/index.html`.
 
 ## Architecture
 
