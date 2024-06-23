@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5DXAHNT4UVtsVbPpMw6kDEQS+jJEge11mbmqv72qi+RZhemAmBk3L1aJMBsheHj2KfRxhdEDWbyJb7MvFdC6A==",
+  "dgSpecHash": "x8vu3UzoCqktv3j6kj4ZNiRiysdGQBL5yHpK2Xk40U1VozaUuH3RvIdtfvdnZeUb5fjxyDk6Nih1CU74GwRGdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Infrastructure\\RentalCar.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Infrastructure\\RentalCar.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leandro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\leandro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -28,12 +28,12 @@ namespace RentalCar.Api.Controllers
 
         [HttpPost("reservation")]
         [Authorize(Policy = "RENTAL_ADD")]
-        public async Task<IActionResult> StartRental(CreateRentalRequest request)
+        public async Task<ActionResult> StartRental(CreateRentalRequest request)
         {
             var command = MapTo<StartRentalCommand>(request);
             command.CustomerUserId = GetCurrentUserId().Value;
             await _mediator.Send(command);
-            return Ok();
+            return NoContent();
         }
 
         [HttpPost("confirmation")]
@@ -59,7 +59,7 @@ namespace RentalCar.Api.Controllers
                 id,
                 CurrentUserIsAdmin ? null : GetCurrentUserId().Value);
             await _mediator.Send(command);
-            return Ok();
+            return NoContent();
         }
 
         [HttpPut("{id}/return")]
@@ -68,7 +68,7 @@ namespace RentalCar.Api.Controllers
         {
             var command = new ReturnRentalCommand(id);
             await _mediator.Send(command);
-            return Ok();
+            return NoContent();
         }
     }
 }

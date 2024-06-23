@@ -2699,11 +2699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Security\\RentalCar.Security.csproj",
+      "projectUniqueName": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Security\\RentalCar.Security.csproj",
       "projectName": "RentalCar.Security",
-      "projectPath": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Security\\RentalCar.Security.csproj",
+      "projectPath": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Security\\RentalCar.Security.csproj",
       "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Security\\obj\\",
+      "outputPath": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Security\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2720,8 +2720,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Application\\RentalCar.Application.csproj": {
-              "projectPath": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Application\\RentalCar.Application.csproj"
+            "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Application\\RentalCar.Application.csproj": {
+              "projectPath": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Application\\RentalCar.Application.csproj"
             }
           }
         }

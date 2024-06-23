@@ -82,7 +82,7 @@ namespace RentalCar.Api.Controllers
         {
             var command = new DeleteCarCommand(id);
             await _mediator.Send(command);
-            return Ok();
+            return NoContent();
         }
     }
 }

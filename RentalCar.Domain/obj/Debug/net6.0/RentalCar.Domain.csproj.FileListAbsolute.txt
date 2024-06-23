@@ -20,3 +20,14 @@ C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Domain\obj\Debug\net6.0
 C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Domain\obj\Debug\net6.0\refint\RentalCar.Domain.dll
 C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.pdb
 C:\Users\leandro\source\repos\RentalCarCompany\RentalCar.Domain\obj\Debug\net6.0\ref\RentalCar.Domain.dll
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\bin\Debug\net6.0\RentalCar.Domain.deps.json
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\bin\Debug\net6.0\RentalCar.Domain.dll
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\bin\Debug\net6.0\RentalCar.Domain.pdb
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.AssemblyInfo.cs
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.dll
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\refint\RentalCar.Domain.dll
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\RentalCar.Domain.pdb
+C:\Users\leandro\Desktop\rental-car-company\RentalCar.Domain\obj\Debug\net6.0\ref\RentalCar.Domain.dll

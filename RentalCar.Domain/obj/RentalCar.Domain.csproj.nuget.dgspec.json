@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Domain\\RentalCar.Domain.csproj": {}
+    "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Domain\\RentalCar.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Domain\\RentalCar.Domain.csproj": {
+    "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Domain\\RentalCar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Domain\\RentalCar.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Domain\\RentalCar.Domain.csproj",
         "projectName": "RentalCar.Domain",
-        "projectPath": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Domain\\RentalCar.Domain.csproj",
+        "projectPath": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Domain\\RentalCar.Domain.csproj",
         "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leandro\\source\\repos\\RentalCarCompany\\RentalCar.Domain\\obj\\",
+        "outputPath": "C:\\Users\\leandro\\Desktop\\rental-car-company\\RentalCar.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
