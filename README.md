@@ -57,7 +57,7 @@ It makes a "pre-reservation" for provided `Car` between provided dates range onl
 
 It is an `authenticated` endpoint.
 User should have `RENTAL_ADD` permission which is provided to `CUSTOMER` users only.
-It confirms the "pre-reservation" which was done for the user in previous step. It is the "checkout" step.
+It confirms the "pre-reservation" which was done by the user in previous step. It is the "checkout" step.
 
 #### Validations:
 
